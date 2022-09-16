@@ -6,4 +6,4 @@ I am a 14 year old developer from the UAE, I am currently working on [Voltra](ht
 
 [![My Skills](https://skillicons.dev/icons?i=py,linux,html,md,vscode,figma,qt,godot&perline=4)](https://skillicons.dev)
 
-[![Github Footer img]](https://github.githubassets.com/images/modules/site/home/footer-illustration.webp)
+![Github Footer img](https://github.githubassets.com/images/modules/site/home/footer-illustration.webp)
