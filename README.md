@@ -9,6 +9,10 @@
 - I play a shit ton of ultrakill
 - I love Linux
 
+##### Learning:
+- Go
+- Javascript
+
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=planetjunkie)](https://github.com/LordDashMe/github-contribution-stats/)
 
 [![My Skills](https://skillicons.dev/icons?i=py,linux,html,md,vscode,figma,qt,godot&perline=4)](https://skillicons.dev)
