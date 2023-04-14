@@ -2,7 +2,7 @@
 
 ![Github Footer img](https://github.githubassets.com/images/modules/site/home/footer-illustration.webp)
 
-#### I am a 14 year old developer from the UAE, I am currently working on [WxManager](http://github.com/wxmanager) and many other things.
+#### I am a 15 year old developer from the UAE, I am currently working on [WxManager](http://github.com/wxmanager) and many other things.
 ##### Facts about me:
 - I am a Mediocre Python developer
 - I love computers
