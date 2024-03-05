@@ -1,20 +1,11 @@
-### Hi there 👋
+## My README.md
+Hello! My Name's Ali! Also known as Kitt, or Nexus! (I don't mind either :p).
 
-![Github Footer img](https://github.githubassets.com/images/modules/site/home/footer-illustration.webp)
+I'm 15, I'm a nerd, and I like computers and video games, I also tend to ramble about the things I like
 
-#### I am a 15 year old developer from the UAE, I am currently working on [WxManager](http://github.com/wxmanager) and many other things.
-##### Facts about me:
-- I am a Mediocre Python developer
-- I love computers
-- I play a shit ton of ultrakill
-- I love Linux
+Uhh, That's about it!
 
-##### Learning:
-- Go
-- Javascript
-
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=planetjunkie)](https://github.com/LordDashMe/github-contribution-stats/)
-
-[![My Skills](https://skillicons.dev/icons?i=py,linux,html,md,vscode,figma,qt,godot&perline=4)](https://skillicons.dev)
-
+## Links
+Discord: nexuscomm
+Steam: https://steamcommunity.com/id/NexusVoyager/
 
